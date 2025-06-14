@@ -1,0 +1,1 @@
+# cnn-waste-segregation
