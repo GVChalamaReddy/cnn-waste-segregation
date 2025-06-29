@@ -1,6 +1,8 @@
 # Waste Material Segregation
 **Problem Statement:** This project is to implement an effective waste material segregation system using convolutional neural networks (CNNs) that categorises waste into distinct groups. This process enhances recycling efficiency, minimises environmental pollution, and promotes sustainable waste management practices.
 
+**Data Set:** https://drive.google.com/drive/folders/1sajIcvGxBemqK_YIHFoY28EyV1Su_b5M
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
